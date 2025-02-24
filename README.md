@@ -16,5 +16,6 @@ Must-Read-Classics (MRC) for Machine Learning Researchers
 
 ## Books
 * [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
-* [Reinforcement Learning: An Introduction](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+* [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * [Machine Learning – A Probabilistic Perspective](https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
+* [Deep Learning](https://www.deeplearningbook.org/)
