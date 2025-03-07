@@ -7,7 +7,8 @@ Must-Read-Classics (MRC) for Machine Learning Researchers
 
 ## Papers
 * **[~~28 Feb 2025~~]** [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
-* **[7 Mar 2025]** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* **[~~7 Mar 2025~~]** [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+* **[14 Mar 2025]** [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 * [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
 * [Mastering the game of Go with deep neural networks and tree search](https://www.nature.com/articles/nature16961)
 * [Mastering Atari, Go, chess and shogi by planning with a learned model](https://www.nature.com/articles/s41586-020-03051-4)
