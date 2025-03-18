@@ -1,7 +1,7 @@
 # MRC Club
 Must-Read-Classics (MRC) for Machine Learning Researchers
 
-Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?A0=cs-ml-mrc) (Open to public)
+Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=cs-ml-mrc&A=1) (Open to public)
 
 > **Location**: G36 Kilburn Building
 > 
