@@ -1,6 +1,8 @@
 # MRC Club
 Must-Read-Classics (MRC) for Machine Learning Researchers
 
+Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?A0=cs-ml-mrc) (Open to public)
+
 > **Location**: G36 Kilburn Building
 > 
 > **Time**: 4pm to 6pm, Every Friday
