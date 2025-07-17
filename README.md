@@ -31,6 +31,7 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 * **[~~11 Apr 2025: Chapter 6~~]** [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 * **[~~25 Apr 2025: Chapter 7 & 8~~]** [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 * **[~~4th Jul 2025: Chapter3~~]** [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
-* **[11th Jul 2025: Chapter4]** [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+* **[~~11th Jul 2025: Chapter4~~]** [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+* **[18th Jul 2025: Chapter 6]** [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 * [Machine Learning – A Probabilistic Perspective](https://github.com/kerasking/book-1/blob/master/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf)
 * [Deep Learning](https://www.deeplearningbook.org/)
