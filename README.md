@@ -3,9 +3,9 @@ Must-Read-Classics (MRC) for Machine Learning Researchers
 
 Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=cs-ml-mrc&A=1) (Open to public)
 
-> **Location**: G36 Kilburn Building
+> **Location**: Pankhurst Building
 > 
-> **Time**: 4pm to 6pm, Every Friday
+> **Time**: 2 PM to 4 PM, Every Friday
 
 ## Papers
 * **[~~28 Feb 2025~~]** [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
