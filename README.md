@@ -25,6 +25,7 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+* [Associative Recurrent Memory Transformer](https://arxiv.org/abs/2407.04841)
 
 ## Books
 * **[~~4 Apr 2025: Chapter 13~~]** [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
