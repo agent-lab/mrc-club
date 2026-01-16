@@ -25,7 +25,7 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 | 27 June 2025 | [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920) |
 | 28 Nov 2025 | [Approximately Optimal Approximate RL](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf) |
 | 5 Dec 2025 | [Mirror Descent Policy Optimization](https://arxiv.org/abs/2005.09814) |
-| 16 jan 2026 | [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/pdf/2505.06708) |
+| 16 Jan 2026 | [Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free](https://arxiv.org/pdf/2505.06708) |
 | — | [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236) |
 | — | [Mastering Atari, Go, chess and shogi by planning with a learned model](https://www.nature.com/articles/s41586-020-03051-4) |
 | — | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
