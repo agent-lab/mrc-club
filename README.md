@@ -20,14 +20,15 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 * **[~~6 June 2025~~]** [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 * **[~~13 June 2025~~]** [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
 * **[~~27 June 2025~~]** [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920)
+* **[~~28-Nov-2025~~]** [Approximately Optimal Approximate RL](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
+* **[~~5-Dec-2025~~]** [Mirror Descent Policy Optimization](https://arxiv.org/abs/2005.09814)
 * [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)
 * [Mastering Atari, Go, chess and shogi by planning with a learned model](https://www.nature.com/articles/s41586-020-03051-4)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 * [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 * [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
 * [Associative Recurrent Memory Transformer](https://arxiv.org/abs/2407.04841)
-* **[~~28-Nov-2025~~]** [Approximately Optimal Approximate RL](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
-* [Mirror Descent Policy Optimization](https://arxiv.org/abs/2005.09814)
+
 
 ## Books
 * **[~~4 Apr 2025: Chapter 13~~]** [Reinforcement Learning: An Introduction](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
