@@ -9,7 +9,7 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 
 ## Papers
 
-| Date | Paper / Book |
+| Date | Paper |
 |------|--------------|
 | 28 Feb 2025 | [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) |
 | 7 Mar 2025 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
@@ -34,7 +34,7 @@ Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SU
 
 
 ## Books
-| Date | Paper / Book |
+| Date | Book |
 |------|--------------|
 | 4 Apr 2025 | [Reinforcement Learning: An Introduction – Chapter 13](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) |
 | 11 Apr 2025 | [Reinforcement Learning: An Introduction – Chapter 6](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) |
