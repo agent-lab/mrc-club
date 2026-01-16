@@ -1,4 +1,4 @@
-# MRC Club
+# MRC Club - AgentLab Reading Group Archive
 Must-Read-Classics (MRC) for Machine Learning Researchers
 
 Subscribe to the [mailling list](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=cs-ml-mrc&A=1) (Open to public)
